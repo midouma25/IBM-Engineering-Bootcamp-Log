@@ -10,3 +10,7 @@ A daily documentation of my 8-month intensive software engineering training. Cov
 * **What I learned today:** Completed a deep dive into the theoretical and structural foundations of software engineering. I explored the entire SDLC phases and compared traditional development models (Waterfall, V-model) with modern Agile methodologies. 
 * **Key Takeaway:** I learned the critical importance of requirements gathering and documentation, specifically understanding the differences between URS, SRS, and SysRS. Understanding how to architecture the process is just as important as writing the code itself.
 * **Status:** Theoretical foundation built. Moving forward to software architecture and development tools.
+## Day 2: March 22, 2026
+* **Tech Training (IBM):** Started Module 2 (Introduction to Software Development). Began exploring the foundations of Front-end and Back-end architecture. (Work in progress).
+* **Language Training (Udemy):** Completed a 28-minute intensive grammar lesson from "The English Master Course". Spent 1.5 hours of deep focus on understanding sentence structures and taking notes.
+* **Status:** Consistency is key. Focused on the quality of understanding rather than rushing through the modules.
