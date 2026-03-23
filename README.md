@@ -3,7 +3,7 @@ A daily documentation of my 8-month intensive software engineering training. Cov
 ## Day 0: March 21, 2026
 * **Status:** System Initialized. 
 * **Action taken:** Created my GitHub account, set up this daily log repository, and officially enrolled in the IBM Full Stack Cloud Developer Professional Certificate.
-* **Objective:** Committing to a 4-hour daily deep work schedule. Ready to write my first lines of code tomorrow.
+* **Objective:** Committing to a 5-hour daily deep work schedule. Ready to write my first lines of code tomorrow.
 ## Day 1: March 22, 2026
 * **Course:** Introduction to Software Engineering (IBM)
 * **Module Completed:** Module 1 - The Software Development Lifecycle (SDLC)
