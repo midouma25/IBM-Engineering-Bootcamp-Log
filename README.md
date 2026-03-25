@@ -20,3 +20,12 @@ A daily documentation of my 8-month intensive software engineering training. Cov
 * **What I learned (Tech):** Grasped the core architecture of web applications, distinguishing between Front-end, Back-end, and Full-Stack roles. Explored how HTML, CSS, and JavaScript interact to build UIs, alongside collaborative practices like pair programming and setting up Integrated Development Environments (IDEs).
 * **Language Training (Udemy):** Continued advancing in "The English Master Course", maintaining my daily commitment to sharpen my technical communication, grammar, and speaking skills.
 * **Status:** Momentum is extremely high. Successfully transitioning from theoretical concepts to practical development architectures.
+
+## Day 4: March 24, 2026
+* **Status:** Scheduled System Reboot (Rest Day).
+* **Action taken:** Stepped away from the screen to prevent burnout and let the theoretical concepts from Modules 1 & 2 settle in. Mental recovery is a crucial part of the 8-month marathon.
+
+## Day 5: March 25, 2026
+* **Tech Training (IBM):** Back online with full momentum. Reached the 52% milestone in Course 1 (Introduction to Software Engineering).
+* **What I learned today:** Transitioning from software architecture into core programming logic. Started the "Branching and Looping" modules to solidify my algorithmic thinking and master the standard English terminology for control flow structures (If/Else, For/While).
+* **Status:** Crossed the halfway mark of the first course. The rest day paid off, focus is sharp.
