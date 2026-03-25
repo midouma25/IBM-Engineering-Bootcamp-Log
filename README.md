@@ -29,3 +29,8 @@ A daily documentation of my 8-month intensive software engineering training. Cov
 * **Tech Training (IBM):** Back online with full momentum. Reached the 52% milestone in Course 1 (Introduction to Software Engineering).
 * **What I learned today:** Transitioning from software architecture into core programming logic. Started the "Branching and Looping" modules to solidify my algorithmic thinking and master the standard English terminology for control flow structures (If/Else, For/While).
 * **Status:** Crossed the halfway mark of the first course. The rest day paid off, focus is sharp.
+
+## Day 5.5: March 25, 2026
+* **Tech Training (IBM):** Successfully completed Module 3 (Basics of Programming) by midday. 
+* **What I learned today:** Dived deep into core programming constructs (variables, loops, control flow, functions). Mastered the English terminology for different language types (Compiled vs. Interpreted) and programming paradigms (Procedural, Modular, and Object-Oriented Programming - OOP). Also implemented programming fundamentals using Python.
+* **Status:** Midday milestone achieved! The theoretical foundation is getting stronger. Preparing for the next modules and daily English training.
