@@ -47,3 +47,8 @@ A daily documentation of my 8-month intensive software engineering training. Cov
 * **Tech Training (IBM):** Successfully completed Module 5 (Job Opportunities and Skillsets in Software Engineering). Just one module away from completing Course 1!
 * **What I learned today:** Explored the diverse career paths in tech, deeply understanding the difference between software engineers and developers. Analyzed real-world job market trends, essential soft/hard skills, and professional ethics (codes of conduct) required in international tech environments.
 * **Status:** Gaining clear visibility on what global recruiters look for. Fully charged and ready to conquer the final module.
+
+## Day 8.5: March 28, 2026
+* **Tech Training (IBM):** 🏆 MILESTONE ACHIEVED! Successfully completed Module 5 & 6 and earned the official "Introduction to Software Engineering" certificate from IBM.
+* **What I learned today:** Passed the final assessment and completed the final project by analyzing real-world job postings. Connected all the theoretical concepts (SDLC, Agile, Architecture, Logic) to practical career requirements.
+* **Status:** Course 1 is officially 100% complete! The foundation is rock solid. Taking a moment to celebrate before diving into Course 2.
