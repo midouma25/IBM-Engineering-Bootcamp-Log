@@ -38,3 +38,12 @@ A daily documentation of my 8-month intensive software engineering training. Cov
 * **Tech Training (IBM):** Conquered Module 4 (Software Architecture, Design, and Patterns). Officially reached the 76% milestone of Course 1.
 * **What I learned today:** Shifted focus from writing code to designing scalable systems. Learned object-oriented analysis, UML modeling, and the critical differences between architectural approaches (Monolithic, Microservices, and Serverless). Also explored deployment environments for production readiness.
 * **Status:** The mindset is shifting from "Developer" to "Software Architect". Getting very close to completing the first course of the certificate!
+
+## Day 7: March 27, 2026
+* **Status:** Scheduled System Reboot (Rest Day).
+* **Action taken:** Took a strategic day off to recharge. Managing energy is just as important as managing time, especially before the final push of the course.
+
+## Day 8: March 28, 2026
+* **Tech Training (IBM):** Successfully completed Module 5 (Job Opportunities and Skillsets in Software Engineering). Just one module away from completing Course 1!
+* **What I learned today:** Explored the diverse career paths in tech, deeply understanding the difference between software engineers and developers. Analyzed real-world job market trends, essential soft/hard skills, and professional ethics (codes of conduct) required in international tech environments.
+* **Status:** Gaining clear visibility on what global recruiters look for. Fully charged and ready to conquer the final module.
