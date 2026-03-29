@@ -52,3 +52,8 @@ A daily documentation of my 8-month intensive software engineering training. Cov
 * **Tech Training (IBM):** 🏆 MILESTONE ACHIEVED! Successfully completed Module 5 & 6 and earned the official "Introduction to Software Engineering" certificate from IBM.
 * **What I learned today:** Passed the final assessment and completed the final project by analyzing real-world job postings. Connected all the theoretical concepts (SDLC, Agile, Architecture, Logic) to practical career requirements.
 * **Status:** Course 1 is officially 100% complete! The foundation is rock solid. Taking a moment to celebrate before diving into Course 2.
+
+## Day 9: March 29, 2026
+* **Language Training (Udemy):** Dedicated the session to linguistic consolidation. Conducted a comprehensive review of previous English lessons and completed practical exercises on "Verb Conjugation (1st, 2nd, 3rd Person)".
+* **Tech Status:** Active recovery day post-Course 1 completion. Letting the software engineering concepts settle while sharpening my technical communication tools. 
+* **Key Takeaway:** Mastering verb conjugation is essential for writing clear documentation, precise commit messages, and communicating effectively in future Daily Stand-up meetings.
