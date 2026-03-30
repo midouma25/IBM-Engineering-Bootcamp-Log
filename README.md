@@ -57,3 +57,9 @@ A daily documentation of my 8-month intensive software engineering training. Cov
 * **Language Training (Udemy):** Dedicated the session to linguistic consolidation. Conducted a comprehensive review of previous English lessons and completed practical exercises on "Verb Conjugation (1st, 2nd, 3rd Person)".
 * **Tech Status:** Active recovery day post-Course 1 completion. Letting the software engineering concepts settle while sharpening my technical communication tools. 
 * **Key Takeaway:** Mastering verb conjugation is essential for writing clear documentation, precise commit messages, and communicating effectively in future Daily Stand-up meetings.
+
+## Day 10: March 30, 2026
+* **Tech Training (IBM):** System upgraded! Officially started Course 2: "Introduction to Cloud Computing". Completed Module 1.
+* **What I learned today:** Explored the foundational concepts of Cloud Computing. Mastered the core delivery models (IaaS, PaaS, SaaS) and deployment models (Public, Private, Hybrid Cloud). 
+* **Key Takeaway:** Understanding that the cloud is essentially "someone else's computer" mapped perfectly to my future plans for deploying the Phoenix trading bot and the Supermarket POS system on real servers.
+* **Status:** Back to the deep technical focus. Expanding my vocabulary with crucial cloud terminology.
