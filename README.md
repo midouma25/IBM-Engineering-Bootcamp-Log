@@ -63,3 +63,8 @@ A daily documentation of my 8-month intensive software engineering training. Cov
 * **What I learned today:** Explored the foundational concepts of Cloud Computing. Mastered the core delivery models (IaaS, PaaS, SaaS) and deployment models (Public, Private, Hybrid Cloud). 
 * **Key Takeaway:** Understanding that the cloud is essentially "someone else's computer" mapped perfectly to my future plans for deploying the Phoenix trading bot and the Supermarket POS system on real servers.
 * **Status:** Back to the deep technical focus. Expanding my vocabulary with crucial cloud terminology.
+
+## Day 10.5: March 30, 2026
+* **Tech Training (IBM):** Midday sprint completed! Finished all the detailed lessons and topics of Module 1 (Overview of Cloud Computing).
+* **What I learned today (Deep Dive):** Grasped the core definition and the 5 essential characteristics of cloud computing. Explored the "pay-as-you-go" business model and analyzed real-world case studies. Most importantly, I learned how emerging technologies like IoT, AI, and Blockchain rely heavily on the cloud's immense scalability and processing power.
+* **Status:** First cloud module fully conquered before the day ends. The transition to Cloud Architecture is going smoothly!
