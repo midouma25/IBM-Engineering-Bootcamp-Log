@@ -68,3 +68,9 @@ A daily documentation of my 8-month intensive software engineering training. Cov
 * **Tech Training (IBM):** Midday sprint completed! Finished all the detailed lessons and topics of Module 1 (Overview of Cloud Computing).
 * **What I learned today (Deep Dive):** Grasped the core definition and the 5 essential characteristics of cloud computing. Explored the "pay-as-you-go" business model and analyzed real-world case studies. Most importantly, I learned how emerging technologies like IoT, AI, and Blockchain rely heavily on the cloud's immense scalability and processing power.
 * **Status:** First cloud module fully conquered before the day ends. The transition to Cloud Architecture is going smoothly!
+
+## Day 11: March 31, 2026
+* **Tech Training (IBM):** Progressing through Course 2: "Introduction to Cloud Computing". Started Module 2 (Cloud Service and Deployment Models).
+* **What I'm learning today:** Deep diving into the distinct categories of cloud services: IaaS (Infrastructure as a Service), PaaS (Platform as a Service), and SaaS (Software as a Service). Also exploring deployment strategies including Public, Private, and Hybrid clouds.
+* **Key Takeaway:** Understanding the "Shared Responsibility Model" — knowing exactly what the cloud provider manages and what I, as an engineer, am responsible for (Security, Data, and Applications).
+* **Status:** Mid-morning session active. Building the architectural knowledge required for professional cloud deployment.
