@@ -79,3 +79,8 @@ A daily documentation of my 8-month intensive software engineering training. Cov
 * **Tech Training (IBM):** Kicking off the new month with strong momentum! Successfully completed Module 2 (Cloud Service and Deployment Models) and immediately dove into Module 3 (Components of Cloud Computing).
 * **What I learned today:** Solidified my architectural understanding of IaaS, PaaS, and SaaS, along with Public, Private, and Hybrid deployment models. Transitioning now into the granular technical components that power the cloud, such as Virtualization, Virtual Machines (VMs), Containers, and Cloud Storage.
 * **Status:** The abstract concept of "The Cloud" is now breaking down into tangible, understandable technical pieces. Ready to master the infrastructure.
+
+## Day 12.5: April 1, 2026
+* **Tech Training (IBM):** Crossed the halfway mark! Officially reached the 51% milestone in Course 2 (Introduction to Cloud Computing).
+* **What I learned today (Deep Dive):** Successfully conquered the Cloud Infrastructure components. Solidified my technical understanding of Virtual Machines (VMs), Bare Metal Servers, and Containers. Also mastered the differences between File, Block, and Object storage systems.
+* **Status:** Halfway through the cloud! The foundation for deploying scalable web applications is fully set. Momentum is unstoppable.
