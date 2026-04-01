@@ -74,3 +74,8 @@ A daily documentation of my 8-month intensive software engineering training. Cov
 * **What I'm learning today:** Deep diving into the distinct categories of cloud services: IaaS (Infrastructure as a Service), PaaS (Platform as a Service), and SaaS (Software as a Service). Also exploring deployment strategies including Public, Private, and Hybrid clouds.
 * **Key Takeaway:** Understanding the "Shared Responsibility Model" — knowing exactly what the cloud provider manages and what I, as an engineer, am responsible for (Security, Data, and Applications).
 * **Status:** Mid-morning session active. Building the architectural knowledge required for professional cloud deployment.
+
+## Day 12: April 1, 2026
+* **Tech Training (IBM):** Kicking off the new month with strong momentum! Successfully completed Module 2 (Cloud Service and Deployment Models) and immediately dove into Module 3 (Components of Cloud Computing).
+* **What I learned today:** Solidified my architectural understanding of IaaS, PaaS, and SaaS, along with Public, Private, and Hybrid deployment models. Transitioning now into the granular technical components that power the cloud, such as Virtualization, Virtual Machines (VMs), Containers, and Cloud Storage.
+* **Status:** The abstract concept of "The Cloud" is now breaking down into tangible, understandable technical pieces. Ready to master the infrastructure.
