@@ -89,3 +89,13 @@ A daily documentation of my 8-month intensive software engineering training. Cov
 * **Status:** Scheduled System Reboot (Rest Day).
 * **Action taken:** Complete disconnect from screens to allow the brain to process the Service Models and Architecture concepts learned in the previous days. Consistency is a marathon, not a sprint.
 
+## Day 13: April 2, 2026
+* **Status:** Scheduled System Reboot (Rest Day).
+* **Action taken:** Complete disconnect from screens to allow the brain to process the Service Models and Architecture concepts learned in the previous days. Consistency is a marathon, not a sprint.
+
+## Day 14: April 3, 2026
+* **Tech Training (IBM):** Successfully conquered Module 3 (Components of Cloud Computing). 
+* **What I learned today:** Deep dive into the physical and virtual components of the cloud. Mastered the concepts of Virtualization (Hypervisors), VMs, and Containers. Gained a clear technical distinction between Direct Attached, File, Block, and Object Storage.
+* **Architectural Insight:** Understanding that Object Storage is accessed via API and offers infinite scalability makes it the perfect candidate for storing large assets (images/videos) for my future projects.
+* **Status:** Progressing rapidly through Course 2. Technical infrastructure knowledge is now 100% solidified.
+
