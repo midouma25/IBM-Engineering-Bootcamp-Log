@@ -84,3 +84,8 @@ A daily documentation of my 8-month intensive software engineering training. Cov
 * **Tech Training (IBM):** Crossed the halfway mark! Officially reached the 51% milestone in Course 2 (Introduction to Cloud Computing).
 * **What I learned today (Deep Dive):** Successfully conquered the Cloud Infrastructure components. Solidified my technical understanding of Virtual Machines (VMs), Bare Metal Servers, and Containers. Also mastered the differences between File, Block, and Object storage systems.
 * **Status:** Halfway through the cloud! The foundation for deploying scalable web applications is fully set. Momentum is unstoppable.
+
+## Day 13: April 2, 2026
+* **Status:** Scheduled System Reboot (Rest Day).
+* **Action taken:** Complete disconnect from screens to allow the brain to process the Service Models and Architecture concepts learned in the previous days. Consistency is a marathon, not a sprint.
+
