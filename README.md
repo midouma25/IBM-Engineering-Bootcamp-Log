@@ -99,3 +99,7 @@ A daily documentation of my 8-month intensive software engineering training. Cov
 * **Architectural Insight:** Understanding that Object Storage is accessed via API and offers infinite scalability makes it the perfect candidate for storing large assets (images/videos) for my future projects.
 * **Status:** Progressing rapidly through Course 2. Technical infrastructure knowledge is now 100% solidified.
 
+ ## Day 15: April 4, 2026
+* **Tech Training (IBM):** Dedicated today's session to an in-depth architectural review of Emergent Cloud Trends.
+* **Action taken:** Shifted focus from theoretical definitions to real-world technical implementation scenarios. Mentally mapped out how enterprise applications actually utilize Hybrid Multi-cloud strategies (AWS/GCP), Microservices orchestration (Docker, Kubernetes), and Serverless architectures (AWS Lambda, event-driven processes). 
+* **Status:** Solidifying the "Solutions Architect" mindset. Taking the time to deeply understand the tech stack before moving forward.
