@@ -103,3 +103,8 @@ A daily documentation of my 8-month intensive software engineering training. Cov
 * **Tech Training (IBM):** Dedicated today's session to an in-depth architectural review of Emergent Cloud Trends.
 * **Action taken:** Shifted focus from theoretical definitions to real-world technical implementation scenarios. Mentally mapped out how enterprise applications actually utilize Hybrid Multi-cloud strategies (AWS/GCP), Microservices orchestration (Docker, Kubernetes), and Serverless architectures (AWS Lambda, event-driven processes). 
 * **Status:** Solidifying the "Solutions Architect" mindset. Taking the time to deeply understand the tech stack before moving forward.
+
+## Day 15.5: April 4, 2026
+* **Tech Training (IBM):** Afternoon sprint! Successfully completed Module 4 (Emergent Trends and Practices) of Course 2.
+* **What I learned today (Deep Dive):** Transitioned from infrastructure to modern operations. Grasped the mechanics of Cloud Native Applications and the critical importance of DevOps (CI/CD pipelines) for automating deployments. Also explored Application Modernization strategies (like Lift & Shift) to update legacy systems.
+* **Status:** The architectural vision is now complete! Just one module away from finishing the second certificate.
