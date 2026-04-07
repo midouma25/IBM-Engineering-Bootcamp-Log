@@ -108,3 +108,15 @@ A daily documentation of my 8-month intensive software engineering training. Cov
 * **Tech Training (IBM):** Afternoon sprint! Successfully completed Module 4 (Emergent Trends and Practices) of Course 2.
 * **What I learned today (Deep Dive):** Transitioned from infrastructure to modern operations. Grasped the mechanics of Cloud Native Applications and the critical importance of DevOps (CI/CD pipelines) for automating deployments. Also explored Application Modernization strategies (like Lift & Shift) to update legacy systems.
 * **Status:** The architectural vision is now complete! Just one module away from finishing the second certificate.
+
+## Day 16: April 5, 2026
+* **Status:** System Paused (Real-world Commitments).
+* **Action taken:** Stepped away from the bootcamp to handle real-life work responsibilities. Balancing career and continuous training is key to avoiding burnout.
+
+## Day 17: April 6, 2026
+* **Status:** System Paused (Real-world Commitments).
+* **Action taken:** Second day of focusing on real-life tasks. Letting the complex Cloud Native and DevOps architectures settle in my mind.
+
+## Day 18: April 7, 2026
+* **Language Training:** System Online! Easing back into the deep work routine by dedicating the session to reviewing previous English lessons.
+* **Status:** Active recovery day. Sharpening my linguistic skills and technical communication before tackling the final module of the Cloud Computing course.
