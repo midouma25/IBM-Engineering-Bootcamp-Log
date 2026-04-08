@@ -120,3 +120,8 @@ A daily documentation of my 8-month intensive software engineering training. Cov
 ## Day 18: April 7, 2026
 * **Language Training:** System Online! Easing back into the deep work routine by dedicating the session to reviewing previous English lessons.
 * **Status:** Active recovery day. Sharpening my linguistic skills and technical communication before tackling the final module of the Cloud Computing course.
+
+## Day 19: April 8, 2026
+* **Tech Training (IBM):** Conducted a robust review of Module 4 (Cloud Native & DevOps) and officially initiated Module 5 (Cloud Security, Monitoring, and Jobs).
+* **What I'm learning today:** Transitioning into the critical aspects of Cloud Security. Mastering IAM (Identity and Access Management), the differences between Data at Rest and Data in Transit encryption, and the architectural necessity of Cloud Monitoring for proactive system health.
+* **Status:** Entering the final stretch of Course 2! The transition from theoretical concepts to real-world job roles and security practices is making everything click together.
