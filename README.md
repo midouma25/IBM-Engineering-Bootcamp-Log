@@ -125,3 +125,8 @@ A daily documentation of my 8-month intensive software engineering training. Cov
 * **Tech Training (IBM):** Conducted a robust review of Module 4 (Cloud Native & DevOps) and officially initiated Module 5 (Cloud Security, Monitoring, and Jobs).
 * **What I'm learning today:** Transitioning into the critical aspects of Cloud Security. Mastering IAM (Identity and Access Management), the differences between Data at Rest and Data in Transit encryption, and the architectural necessity of Cloud Monitoring for proactive system health.
 * **Status:** Entering the final stretch of Course 2! The transition from theoretical concepts to real-world job roles and security practices is making everything click together.
+
+## Day 19.5: April 8, 2026
+* **Tech Training (IBM):** COURSE COMPLETED! 🎉 Successfully finished Module 5 (Cloud Security, Monitoring, and Jobs) and wrapped up the entire "Introduction to Cloud Computing" course.
+* **Milestone:** I now possess a comprehensive architectural understanding of Cloud Service Models (IaaS, PaaS, SaaS), Deployment Models, Modern Practices (Microservices, DevOps, Cloud Native), and Cloud Security (IAM, Encryption).
+* **Status:** Ready to crush the final exam and claim my second IBM certificate! The foundation is rock solid.
