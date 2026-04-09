@@ -130,3 +130,9 @@ A daily documentation of my 8-month intensive software engineering training. Cov
 * **Tech Training (IBM):** COURSE COMPLETED! 🎉 Successfully finished Module 5 (Cloud Security, Monitoring, and Jobs) and wrapped up the entire "Introduction to Cloud Computing" course.
 * **Milestone:** I now possess a comprehensive architectural understanding of Cloud Service Models (IaaS, PaaS, SaaS), Deployment Models, Modern Practices (Microservices, DevOps, Cloud Native), and Cloud Security (IAM, Encryption).
 * **Status:** Ready to crush the final exam and claim my second IBM certificate! The foundation is rock solid.
+
+## Day 20: April 9, 2026
+* **Tech Training (IBM):** CERTIFICATE ACHIEVED! 🎓🏆 
+* **Action taken:** Successfully passed the final exam and officially earned the "Introduction to Cloud Computing" certificate.
+* **Milestone:** Course 2 is fully complete. My architectural foundation is now rock solid. I understand how modern applications are deployed, scaled, and secured using Cloud Native practices, Microservices, and DevOps CI/CD pipelines.
+* **Status:** Celebrating this major victory! The transition from writing basic code to understanding global infrastructure is officially complete.
