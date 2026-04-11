@@ -133,3 +133,12 @@ A daily documentation of my 8-month intensive software engineering training. Cov
 * **Action taken:** Successfully passed the final exam and officially earned the "Introduction to Cloud Computing" certificate.
 * **Milestone:** Course 2 is fully complete. My architectural foundation is now rock solid. I understand how modern applications are deployed, scaled, and secured using Cloud Native practices, Microservices, and DevOps CI/CD pipelines.
 * **Status:** Celebrating this major victory! The transition from writing basic code to understanding global infrastructure is officially complete.
+
+## Day 21: April 10, 2026
+* **Status:** Scheduled System Reboot (Rest Day).
+* **Action taken:** Complete screen disconnect to recharge mental batteries and let the new Front-End concepts settle. 
+
+## Day 22: April 11, 2026
+* **Tech Training (IBM):** Successfully CONQUERED Module 1 (HTML Overview) of Course 3!
+* **What I learned today:** Mastered the foundational skeleton of web development. Deeply understood HTML5 semantics, cross-browser compatibility, Document Object Model (DOM), and how to inject interactivity via `<script>` tags. Nailed the final graded quiz!
+* **Status:** The structural foundation is officially laid. Transitioning immediately to Module 2. Getting one step closer to building the UI for my FinTech projects in Lithuania.
