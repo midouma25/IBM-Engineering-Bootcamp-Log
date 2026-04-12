@@ -142,3 +142,9 @@ A daily documentation of my 8-month intensive software engineering training. Cov
 * **Tech Training (IBM):** Successfully CONQUERED Module 1 (HTML Overview) of Course 3!
 * **What I learned today:** Mastered the foundational skeleton of web development. Deeply understood HTML5 semantics, cross-browser compatibility, Document Object Model (DOM), and how to inject interactivity via `<script>` tags. Nailed the final graded quiz!
 * **Status:** The structural foundation is officially laid. Transitioning immediately to Module 2. Getting one step closer to building the UI for my FinTech projects in Lithuania.
+
+## Day 23: April 12, 2026
+* **Tech Training (IBM):** Reached a massive milestone! Crossed the 40% completion mark for Course 3 (Introduction to HTML, CSS, & JavaScript).
+* **What I learned today:** Officially started Module 2. I am shifting from basic HTML to Semantic HTML5 structural elements (`<header>`, `<section>`, `<footer>`). Also exploring advanced input types to handle user data efficiently.
+* **Milestone:** Preparing to dive into the visual layer of the web using CSS and getting introduced to industry-standard frameworks like Bootstrap and Tailwind.
+* **Status:** The architectural vision of how a webpage is built, structured, and styled is becoming crystal clear.
