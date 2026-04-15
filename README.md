@@ -148,3 +148,13 @@ A daily documentation of my 8-month intensive software engineering training. Cov
 * **What I learned today:** Officially started Module 2. I am shifting from basic HTML to Semantic HTML5 structural elements (`<header>`, `<section>`, `<footer>`). Also exploring advanced input types to handle user data efficiently.
 * **Milestone:** Preparing to dive into the visual layer of the web using CSS and getting introduced to industry-standard frameworks like Bootstrap and Tailwind.
 * **Status:** The architectural vision of how a webpage is built, structured, and styled is becoming crystal clear.
+
+## Day 24 & 25: April 13-14, 2026
+* **Status:** Extended System Maintenance (Rest Days).
+* **Action taken:** Deliberate disconnect to allow the subconscious mind to process HTML structural concepts. Mental recovery is essential for the long-term consistency of this 8-month bootcamp.
+
+## Day 26: April 15, 2026
+* **Tech Training (IBM):** System Online! Resuming Course 3, Module 2.
+* **Focus for today:** Diving deep into CSS (Cascading Style Sheets) and Advanced HTML5 Semantic Elements.
+* **Goal:** Mastering the "Box Model" concept and understanding how to transform raw HTML structures into professional, styled user interfaces.
+* **Status:** Momentum recovered. Moving from the "Skeleton" phase to the "Aesthetics & Layout" phase.
