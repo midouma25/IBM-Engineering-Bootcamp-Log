@@ -158,3 +158,9 @@ A daily documentation of my 8-month intensive software engineering training. Cov
 * **Focus for today:** Diving deep into CSS (Cascading Style Sheets) and Advanced HTML5 Semantic Elements.
 * **Goal:** Mastering the "Box Model" concept and understanding how to transform raw HTML structures into professional, styled user interfaces.
 * **Status:** Momentum recovered. Moving from the "Skeleton" phase to the "Aesthetics & Layout" phase.
+
+## Day 27: April 16, 2026
+* **Tech Training (IBM):** Officially conquered Module 2 (CSS, Flexbox, & Semantic HTML) and crossed into Module 3!
+* **Current Focus:** Entering the realm of JavaScript. Transitioning from static page design (markup and styling) to dynamic, interactive programming.
+* **Milestone:** My web pages are about to get a "nervous system". Getting ready to write logic, handle user events, and manipulate the DOM.
+* **Status:** The Front-End puzzle is coming together perfectly. High energy and fully engaged!
