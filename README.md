@@ -164,3 +164,13 @@ A daily documentation of my 8-month intensive software engineering training. Cov
 * **Current Focus:** Entering the realm of JavaScript. Transitioning from static page design (markup and styling) to dynamic, interactive programming.
 * **Milestone:** My web pages are about to get a "nervous system". Getting ready to write logic, handle user events, and manipulate the DOM.
 * **Status:** The Front-End puzzle is coming together perfectly. High energy and fully engaged!
+
+## Day 28: April 17, 2026
+* **Status:** Hardware Maintenance & Offline Mode (Rest & Sports).
+* **Action taken:** Dedicated the day to physical training and mental recovery. A healthy body sustains a sharp engineering mind for the long marathon ahead.
+
+## Day 29: April 18, 2026
+* **Tech Training (IBM):** System Diagnostics & Code Review.
+* **Focus for today:** Consolidating knowledge from Module 1 (HTML) and Module 2 (CSS & Flexbox). 
+* **Goal:** Ensuring my foundation (the DOM structure and styling engine) is rock solid before injecting JavaScript logic in Module 3. You can't program a UI effectively if you don't fully understand how it's built!
+* **Status:** Refreshed, focused, and preparing the infrastructure for dynamic programming.
