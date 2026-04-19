@@ -174,3 +174,9 @@ A daily documentation of my 8-month intensive software engineering training. Cov
 * **Focus for today:** Consolidating knowledge from Module 1 (HTML) and Module 2 (CSS & Flexbox). 
 * **Goal:** Ensuring my foundation (the DOM structure and styling engine) is rock solid before injecting JavaScript logic in Module 3. You can't program a UI effectively if you don't fully understand how it's built!
 * **Status:** Refreshed, focused, and preparing the infrastructure for dynamic programming.
+
+## Day 30: April 19, 2026
+* **Tech Training (IBM):** Crossed the 60% mark! Currently at 62% completion for Course 3.
+* **Current Challenge:** Deep in the trenches of Module 3 (JavaScript). It is noticeably longer and more complex than HTML/CSS. I am transitioning my mindset from visual layout design to pure algorithmic logic and DOM manipulation. Embracing the difficulty because this is where the real engineering happens.
+* **Skill Synergy (Language):** Reached Level 60 in English on Duolingo! Consistent daily practice. Bridging the gap between coding skills and global communication skills—essential for the future relocation goal (Lithuania 🇱🇹).
+* **Status:** Pushing through the steep learning curve. Consistency is my superpower.
