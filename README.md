@@ -180,3 +180,9 @@ A daily documentation of my 8-month intensive software engineering training. Cov
 * **Current Challenge:** Deep in the trenches of Module 3 (JavaScript). It is noticeably longer and more complex than HTML/CSS. I am transitioning my mindset from visual layout design to pure algorithmic logic and DOM manipulation. Embracing the difficulty because this is where the real engineering happens.
 * **Skill Synergy (Language):** Reached Level 60 in English on Duolingo! Consistent daily practice. Bridging the gap between coding skills and global communication skills—essential for the future relocation goal (Lithuania 🇱🇹).
 * **Status:** Pushing through the steep learning curve. Consistency is my superpower.
+
+## Day 31: April 20, 2026
+* **Tech Training (IBM):** Crossed the critical 75% completion milestone for Course 3!
+* **Current Challenge:** The JavaScript API and DOM manipulation lessons are dense and challenging. It is taking significantly more time to progress, but I am intentionally not rushing. 
+* **Engineering Mindset:** Acknowledging that the difficulty is part of the process. I am focusing on deep comprehension rather than just finishing modules. Building a solid mental model of how JS interacts with the browser is non-negotiable for my FinTech goals.
+* **Status:** Embracing the grind. Fatigue is real, but the momentum is unbroken.
