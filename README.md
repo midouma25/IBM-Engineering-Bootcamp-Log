@@ -208,3 +208,9 @@ A daily documentation of my 8-month intensive software engineering training. Cov
 * **Action taken:** Successfully delivered the final interactive Portfolio Project. Mastered DOM manipulation, event handling, and JavaScript array methods to build a fully functional, dynamic UI.
 * **Engineering Insight:** This was the steepest learning curve so far. Transitioning from visual design (CSS) to logical programming (JS) required a complete rewiring of my thought process. I didn't just pass; I actually understand how the browser engine works under the hood.
 * **Status:** Celebrating a massive milestone! The technical foundation for my future FinTech and POS projects is now officially certified.
+
+## Day 35: April 24, 2026
+* **Status:** System Cooling & Active Recovery (Rest Day).
+* **Action taken:** Dedicated the day entirely to physical sports and mental detachment from screens following the massive Course 3 certification. 
+* **Engineering Insight:** Recognizing that rest is a productive phase of the learning cycle. Letting the complex JavaScript algorithms and DOM concepts consolidate in my long-term memory before embarking on the next course.
+* **Status:** Hardware cooled down. Ready to initialize the next phase of the bootcamp.
