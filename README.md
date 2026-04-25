@@ -214,3 +214,10 @@ A daily documentation of my 8-month intensive software engineering training. Cov
 * **Action taken:** Dedicated the day entirely to physical sports and mental detachment from screens following the massive Course 3 certification. 
 * **Engineering Insight:** Recognizing that rest is a productive phase of the learning cycle. Letting the complex JavaScript algorithms and DOM concepts consolidate in my long-term memory before embarking on the next course.
 * **Status:** Hardware cooled down. Ready to initialize the next phase of the bootcamp.
+
+## Day 36: April 25, 2026
+* **Tech Training (IBM):** Conducted a final rapid review of Course 3 (Front-End Essentials).
+* **New Phase Initialized:** Officially started Course 4: "Getting Started with Git and GitHub".
+* **Objective:** Mastering Version Control Systems (VCS). My goal is to learn how to track code changes, manage repositories professionally, and leverage GitHub to showcase my daily contributions to global recruiters.
+* **Engineering Mindset:** Transitioning from local development to cloud-based version control. Building the infrastructure to support complex React and Node.js projects in the coming modules.
+* **Status:** Ready to professionalize my workflow.
