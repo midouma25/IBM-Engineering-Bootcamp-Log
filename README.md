@@ -221,3 +221,9 @@ A daily documentation of my 8-month intensive software engineering training. Cov
 * **Objective:** Mastering Version Control Systems (VCS). My goal is to learn how to track code changes, manage repositories professionally, and leverage GitHub to showcase my daily contributions to global recruiters.
 * **Engineering Mindset:** Transitioning from local development to cloud-based version control. Building the infrastructure to support complex React and Node.js projects in the coming modules.
 * **Status:** Ready to professionalize my workflow.
+
+## Day 37: April 26, 2026
+* **Tech Training (IBM):** Officially dived into Course 4: "Getting Started with Git and GitHub".
+* **Focus Areas:** Understanding Version Control Systems (VCS), the difference between Git (local) and GitHub (cloud), and initializing the first repositories.
+* **Engineering Mindset:** Embracing the "Snapshot" concept. Learning that every commit is a permanent record of progress, allowing for safe experimentation and seamless collaboration.
+* **Status:** The infrastructure for professional software development is being laid down.
