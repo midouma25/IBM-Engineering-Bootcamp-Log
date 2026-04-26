@@ -203,7 +203,7 @@ A daily documentation of my 8-month intensive software engineering training. Cov
 * **Engineering Insight:** Survived the steepest learning curve of the bootcamp so far. While I have officially finished the JS module, I acknowledge that some advanced concepts still feel fuzzy. I understand that this is the reality of software engineering—true mastery will come through building real-world projects, not just watching tutorials.
 * **Status:** Exhausted but victorious. The Front-End foundation is fully built. Ready to consolidate my knowledge and move forward.
 
-## Day 34: April 23, 2026
+## Day 34.5: April 23, 2026
 * **Tech Training (IBM):** 🎓 CERTIFICATE ACHIEVED! Officially completed the Front-End Web Development course (HTML, CSS, & JavaScript).
 * **Action taken:** Successfully delivered the final interactive Portfolio Project. Mastered DOM manipulation, event handling, and JavaScript array methods to build a fully functional, dynamic UI.
 * **Engineering Insight:** This was the steepest learning curve so far. Transitioning from visual design (CSS) to logical programming (JS) required a complete rewiring of my thought process. I didn't just pass; I actually understand how the browser engine works under the hood.
@@ -227,3 +227,8 @@ A daily documentation of my 8-month intensive software engineering training. Cov
 * **Focus Areas:** Understanding Version Control Systems (VCS), the difference between Git (local) and GitHub (cloud), and initializing the first repositories.
 * **Engineering Mindset:** Embracing the "Snapshot" concept. Learning that every commit is a permanent record of progress, allowing for safe experimentation and seamless collaboration.
 * **Status:** The infrastructure for professional software development is being laid down.
+
+## Day 37.5 : April 26, 2026 (Update)
+* **Tech Training (IBM):** Accelerated progress! Successfully completed Module 1 of Course 4 (Git & GitHub) on the exact same day of starting.
+* **Engineering Insight:** The concepts of Version Control Systems are highly logical. Moving quickly through the theoretical foundations to get to the practical Terminal commands.
+* **Status:** Momentum is high. Ready to start branching and merging.
