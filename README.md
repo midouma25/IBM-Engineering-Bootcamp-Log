@@ -248,3 +248,9 @@ A daily documentation of my 8-month intensive software engineering training. Cov
 * **Status:** Rest & Recovery Day.
 * **Action taken:** Physical activity and complete mental detachment from the screen.
 * **Engineering Insight:** Prioritizing long-term sustainability over short-term burnout. Physical health is the hardware that runs the coding software.
+
+## Day 40: April 29, 2026
+* **Tech Training (IBM):** Initialized Module 3 of Course 4 (Advanced Git).
+* **Focus Areas:** Deep dive into Branching strategies, Merging logic, and Resolving Merge Conflicts.
+* **Engineering Mindset:** Moving from basic usage to "Disaster Recovery" skills. Learning how to manage complex code integrations in a team environment.
+* **Status:** Back to full operational capacity.
