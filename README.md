@@ -260,3 +260,9 @@ A daily documentation of my 8-month intensive software engineering training. Cov
 * **Major Achievement:** Officially earned the IBM Course 4 Certificate (Git and GitHub).
 * **Engineering Insight:** Mastered version control, branch management, conflict resolution, and open-source collaboration workflows. The ultimate safety net of a professional software engineer is now fully installed and operational.
 * **Status:** Certified! Operating at peak performance and ready to conquer the next technical frontier.
+
+## Day 41: April 30, 2026
+* **Tech Training (IBM):** Initiated Course 5: "Developing Front-End Apps with React".
+* **Current Focus:** Module 1 - Introduction to React and Class Components.
+* **Engineering Insight:** Understanding the evolution of React. Learning the foundational Class-based architecture and lifecycle methods (`render`, `this.state`) to effectively manage and refactor enterprise-level legacy codebases before advancing to modern Hooks.
+* **Status:** Immersed in UI component engineering.
