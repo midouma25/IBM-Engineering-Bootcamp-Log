@@ -1,4 +1,4 @@
-# IBM-Engineering-Bootcamp-Log
+ # IBM-Engineering-Bootcamp-Log
 A daily documentation of my 8-month intensive software engineering training. Covering 5 IBM Professional Certificates in Full Stack Cloud Development, Data Science, DevOps, and Applied AI
 ## Day 0: March 21, 2026
 * **Status:** System Initialized. 
@@ -291,3 +291,7 @@ A daily documentation of my 8-month intensive software engineering training. Cov
 * **Progress:** Successfully hit the 25% mark in Course 5 (React).
 * **Engineering Insight:** Crossed the first major threshold. The foundation of Class Components, State management, and Two-Way Data Binding is now established. The architecture for building dynamic, interactive user interfaces is firmly in place.
 * **Status:** System refreshed, high velocity maintained.
+
+## Day 47: May 6, 2026 (Project Architecture Phase 🏗️)
+* **Status:** Transitioning from theory to active system design.
+* **Engineering Insight:** Leveraging the newly acquired React concepts (25% milestone) to architect a real-world application. Pausing to review requirements and map out the data flow before writing code is the hallmark of a Senior Full Stack Developer.
