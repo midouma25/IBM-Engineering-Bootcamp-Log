@@ -322,3 +322,7 @@ A daily documentation of my 8-month intensive software engineering training. Cov
 * **Progress:** Reached exactly 50% of Course 5 (React). The halfway mark!
 * **Engineering Insight:** Transitioned from a learner to an architect. Mastered both legacy architecture (Class Components/Lifecycle) and modern standards (Functional Components, Hooks like `useState` & `useEffect`, Component Composition, and basic Testing logic). 
 * **Status:** Peak momentum. The foundation is fully poured; ready to build the upper floors.
+
+## Day 53: May 12, 2026 (Under the Hood - The Virtual DOM 🧠)
+* **Status:** Deep dive into React's core rendering engine.
+* **Engineering Insight:** Mastered the concepts of Real DOM vs. Virtual DOM, Diffing Algorithms, and Reconciliation. Realized that localized state prevents unnecessary re-renders across the component tree, drastically improving performance.
