@@ -358,3 +358,9 @@ A daily documentation of my 8-month intensive software engineering training. Cov
 * **Milestone:** Successfully integrated my software engineering background (MERN, Python) with my audio expertise to submit a formal application for the *AI Tutor - Audio Editing* position at **xAI**.
 * **Engineering Insight:** Writing lines of code is only half the equation for a Software Engineer. The other half is knowing how to strategically package, market, and deploy your technical capabilities to solve real-world problems and secure positions in high-velocity tech companies. 
 * **Next Target:** Returning to the IDE tomorrow to conquer global state management (Redux) in Course 5.
+
+## Day 61: May 20, 2026 (The Redux Architecture 🧠)
+* **Status:** System fully operational. Nearing the completion of Module 3 (Advanced React & Redux).
+* **What I learned today:** Mastered the Unidirectional Data Flow paradigm. Deeply understood how to decouple UI components from state management using the Redux architecture (Store, Actions, Reducers, and Dispatch). Explored Asynchronous middleware (Thunk) to handle external API requests without blocking the application thread.
+* **Engineering Insight:** Redux is not just a library; it is a strict architectural pattern. By ensuring that the state is immutable and changes are predictable through pure functions (Reducers), scaling enterprise-level applications (like my upcoming POS system) becomes highly manageable and bug-resistant.
+* **Next Target:** Wrapping up the final concepts of Module 3 and preparing for the practical implementation. 
