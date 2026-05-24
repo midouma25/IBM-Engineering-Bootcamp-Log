@@ -377,3 +377,10 @@ A daily documentation of my 8-month intensive software engineering training. Cov
 * **What I accomplished today:** Wrapped up the final advanced concepts, integrated the ultimate frontend architecture for the final project, and passed the AI-graded evaluations with flying colors. 
 * **Engineering Insight:** The certificate is a great milestone, but the real prize is the "Architectural Mindset" I developed. Transitioning from simple component rendering to complex global state management (Redux Toolkit) has officially elevated my skills from a Junior coder to a structured Software Engineer.
 * **Next Target:** Showcasing this certification and the deployed projects on my Professional Portfolio and LinkedIn, then gearing up for the next technology stack.
+
+## Day 64-65: May 23-24, 2026 (Active Recovery & Architectural Review 🧠⚡)
+* **Status:** Rest, Refocus, and Deep Theoretical Review.
+* **What I accomplished:** - Took a necessary "Active Recovery" day yesterday (Sports & physical activity) to reset my mental bandwidth after completing the intensive React & Redux modules.
+  - Dedicated today entirely to a comprehensive theoretical review of Front-End Architecture. 
+  - Solidified core concepts: Component modularity, Prop Drilling prevention, and Global State Management using Redux Toolkit (`createSlice`, `useSelector`, `useDispatch`).
+* **Engineering Insight:** High-performance coding requires mental clarity. Taking a step back to physically recharge and theoretically review code prevents burnout and turns raw coding experience into deeply rooted architectural knowledge.
