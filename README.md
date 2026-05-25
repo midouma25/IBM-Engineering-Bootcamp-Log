@@ -385,7 +385,8 @@ A daily documentation of my 8-month intensive software engineering training. Cov
   - Solidified core concepts: Component modularity, Prop Drilling prevention, and Global State Management using Redux Toolkit (`createSlice`, `useSelector`, `useDispatch`).
 * **Engineering Insight:** High-performance coding requires mental clarity. Taking a step back to physically recharge and theoretically review code prevents burnout and turns raw coding experience into deeply rooted architectural knowledge.
 
-## Day 66: May 25, 2026 (The Architect's First Brick 🏗️)
-* **Status:** Commenced the foundational coding of my personal React Portfolio.
-* **What I accomplished:** Wrote the very first lines of code from absolute scratch. Engineered the initial `App.jsx` structure and designed the Hero Component using inline styles and React functional component architecture.
-* **Engineering Insight:** Transitioning from guided bootcamps to a blank IDE canvas is a massive leap. Today, I am no longer just reading or editing code; I am architecting a scalable digital home to showcase my AI, Python, and Full-Stack capabilities to the world.
+## Day 66: May 25, 2026 (The Architect's First Brick & Linguistic Growth 🏗️🌍)
+* **Status:** Commenced the foundational coding of my personal React Portfolio and hit a major language milestone!
+* **What I accomplished:** - Wrote the very first lines of code from absolute scratch. Engineered the initial `App.jsx` structure and designed the Hero Component.
+  - Reached Level 100 in English on Duolingo! Consistently building my linguistic arsenal alongside my technical one.
+* **Engineering Insight:** Transitioning from guided bootcamps to a blank IDE canvas is a massive leap. Furthermore, software engineering is as much about human language as it is about computer code. Mastering English is the ultimate key to consuming advanced documentation, passing international technical interviews, and preparing for global relocation.
