@@ -408,3 +408,13 @@ A daily documentation of my 8-month intensive software engineering training. Cov
   - **Visionary Concept Formulated:** Documented a long-term AI concept for "Visually-Conditioned Audio Generation"—where AI dynamically generates the perfect emotional voice and tone based purely on analyzing a character's facial expressions and actions in a silent video.
 * **Engineering Insight:** Transitioning into an AI Tutor (Vision/Audio) role requires shifting from writing algorithms to strictly evaluating model outputs. Combining my Computer Science background, daily AI studies on Coursera, and critical audio analysis gives me a unique edge in training the next generation of Multimodal AI.
 
+
+### May 28, 2026 (Evening Session): React Portfolio Foundation ⚛️
+
+* **Current Status:** Switched gears from AI interview preparation to hands-on frontend development. Started building my professional portfolio from scratch using the core React concepts I've been studying.
+* **What I accomplished tonight:**
+  - **Environment Setup:** Initialized a fast React project using Vite. Cleaned up the boilerplate to establish a clean, structured architecture.
+  - **Component Architecture:** Built the foundational `Navbar` and `Hero` components. Focused on writing clean, reusable JSX.
+  - **UI/UX Styling:** Implemented a modern, dark-mode aesthetic using CSS Flexbox. Designed sticky navigation and interactive call-to-action buttons.
+  - **Debugging & Gotchas:** Encountered and immediately resolved the classic Vite "JSX extension" error, solidifying my understanding of Vite's strict `.jsx` parsing rules.
+* **Engineering Insight:** Building a UI by breaking it down into independent components (like Lego blocks) makes the architecture highly maintainable. Relying strictly on the foundational React, HTML, and CSS concepts I've mastered is the best way to build deep muscle memory before relying on external libraries.
