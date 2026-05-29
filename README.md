@@ -418,3 +418,13 @@ A daily documentation of my 8-month intensive software engineering training. Cov
   - **UI/UX Styling:** Implemented a modern, dark-mode aesthetic using CSS Flexbox. Designed sticky navigation and interactive call-to-action buttons.
   - **Debugging & Gotchas:** Encountered and immediately resolved the classic Vite "JSX extension" error, solidifying my understanding of Vite's strict `.jsx` parsing rules.
 * **Engineering Insight:** Building a UI by breaking it down into independent components (like Lego blocks) makes the architecture highly maintainable. Relying strictly on the foundational React, HTML, and CSS concepts I've mastered is the best way to build deep muscle memory before relying on external libraries.
+
+### May 29, 2026: Dynamic Components & Data Structuring ⚛️🚀
+
+* **Current Status:** Completed the core frontend architecture of my personal portfolio. The application is now fully structured, responsive, and reflects my dual expertise in AI and Full-Stack Engineering.
+* **What I accomplished today:**
+  - **Array Mapping & Dynamic UIs:** Built the `Projects` component using React's `.map()` function to dynamically render project cards from an array of objects.
+  - **Bridging AI & Media:** Engineered a custom `VoiceAndMedia` component to highlight my practical experience in Audio QA, Voice-over, and video synchronization—a critical asset for my upcoming xAI interview.
+  - **Timeline UI:** Designed a responsive academic timeline and certification grid in the `Education` component to showcase my Master's journey and IBM/Google credentials.
+  - **Final Polish:** Integrated a sticky `Footer` with live social links and polished the global UI with CSS Flexbox and CSS Grid.
+* **Engineering Insight:** Storing component data (like projects and certifications) in JavaScript arrays before rendering them mimics how a real application fetches data from a REST API or a database. This architectural choice makes the portfolio easily scalable when I decide to connect it to a Node.js backend later.
