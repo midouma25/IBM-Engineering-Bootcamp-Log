@@ -428,3 +428,18 @@ A daily documentation of my 8-month intensive software engineering training. Cov
   - **Timeline UI:** Designed a responsive academic timeline and certification grid in the `Education` component to showcase my Master's journey and IBM/Google credentials.
   - **Final Polish:** Integrated a sticky `Footer` with live social links and polished the global UI with CSS Flexbox and CSS Grid.
 * **Engineering Insight:** Storing component data (like projects and certifications) in JavaScript arrays before rendering them mimics how a real application fetches data from a REST API or a database. This architectural choice makes the portfolio easily scalable when I decide to connect it to a Node.js backend later.
+
+
+### 📅 May 30, 2026
+
+**🚀 Today's Progress:**
+* **Project Completed:** Officially finished and deployed V1 of my personal engineering portfolio, [Gherbi.AI](https://gherbi-ai.vercel.app).
+* **Deployment:** Successfully launched the project on Vercel with Continuous Integration (CI/CD) linked directly to this GitHub repository.
+* **Problem Solving:** Encountered and resolved a Git `non-fast-forward` push conflict, learning how to safely force push / merge remote and local histories.
+* **Features Finalized:** Polished the "Obsidian Gold" UI theme, ensured the custom React cursor works flawlessly without lag, and successfully integrated a downloadable PDF CV.
+
+**🧠 Thoughts & Learnings:**
+Taking a project from a local development server (localhost) to a live production environment is an incredibly rewarding feeling. Today taught me a lot about Git version control under pressure and deployment environments. The portfolio now perfectly reflects my dual identity: a Full-Stack Engineer and an AI Audio QA Specialist. 
+
+**🔗 Link to work:** * [Live Website: Gherbi.AI](https://my-portfolio-nine-zeta-28.vercel.app/)
+* [Source Code](https://github.com/midouma25/my-portfolio)
