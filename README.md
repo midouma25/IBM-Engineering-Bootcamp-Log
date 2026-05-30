@@ -433,7 +433,7 @@ A daily documentation of my 8-month intensive software engineering training. Cov
 ### 📅 May 30, 2026
 
 **🚀 Today's Progress:**
-* **Project Completed:** Officially finished and deployed V1 of my personal engineering portfolio, [Gherbi.AI](https://gherbi-ai.vercel.app).
+* **Project Completed:** Officially finished and deployed V1 of my personal engineering portfolio, [Gherbi.AI](https://my-portfolio-nine-zeta-28.vercel.app).
 * **Deployment:** Successfully launched the project on Vercel with Continuous Integration (CI/CD) linked directly to this GitHub repository.
 * **Problem Solving:** Encountered and resolved a Git `non-fast-forward` push conflict, learning how to safely force push / merge remote and local histories.
 * **Features Finalized:** Polished the "Obsidian Gold" UI theme, ensured the custom React cursor works flawlessly without lag, and successfully integrated a downloadable PDF CV.
