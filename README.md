@@ -443,3 +443,23 @@ Taking a project from a local development server (localhost) to a live productio
 
 **🔗 Link to work:** * [Live Website: Gherbi.AI](https://my-portfolio-nine-zeta-28.vercel.app/)
 * [Source Code](https://github.com/midouma25/my-portfolio)
+
+# 📅 May 31, 2026: A Weekend of Big Milestones! 🚀
+
+## Yesterday: The Launch 🌐
+On May 30, 2026, I officially pushed my custom high-performance React portfolio to GitHub. Building **Gherbi.AI** from scratch was a great journey. I am very proud of the custom cursor, the scroll reveal animations, and the minimalist AI aesthetic. It represents who I am as a full-stack developer.
+
+## Today: The xAI Interview 🤖🎧
+Today, May 31, 2026, I completed the official video interview for the **AI Tutor - Audio Editing (Vision)** role at **xAI (Grok)**. 
+
+The interview had 7 technical video questions. Here is a summary of what I discussed:
+* **The Dual Background:** How I mix my IT degree and software engineering skills with professional multimedia production.
+* **Technical Audio Editing:** My workflow in Adobe Audition, including fixing "Digital Clipping" and using Noise Reduction without making human voices sound robotic.
+* **AI & RLHF:** How I apply an RLHF (Reinforcement Learning from Human Feedback) mindset to evaluate and fix AI-generated audio and sync it perfectly with video frames, just like I did in my anime dubbing projects.
+
+## Reflection 💡
+This weekend proved to me that combining my MERN stack coding skills with my passion for audio/video editing is a unique superpower. I was able to answer the interview questions confidently because I actually build and test these systems every day.
+
+No matter the result, I am very proud of my performance today. This is a huge step forward toward my future goals in Artificial Intelligence.
+
+**— Gherbi Mohamed Cherif**
