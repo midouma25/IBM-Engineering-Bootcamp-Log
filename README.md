@@ -462,4 +462,15 @@ This weekend proved to me that combining my MERN stack coding skills with my pas
 
 No matter the result, I am very proud of my performance today. This is a huge step forward toward my future goals in Artificial Intelligence.
 
-**— Gherbi Mohamed Cherif**
+
+## Day 73: June 2, 2026 (Scope Management & Strategic Deferment 🧠)
+* **Status:** System Architecture Planning & Scope Evaluation.
+* **What I accomplished today:** Conceptually architected a highly ambitious Full-Stack project: an "AI Audio Studio" integrating React, Python (FastAPI), and Whisper AI for real-time transcription and audio analysis. 
+* **Engineering Insight:** After mapping out the microservices architecture, I realized the scope of this project is massive. As an engineer, knowing when to defer a project is just as important as knowing how to code it. I decided to strategically postpone this AI Audio project until I build stronger backend capabilities in the upcoming modules. Avoiding "Scope Creep" and managing developer bandwidth is a crucial senior-level skill.
+* **Next Target:** Pivot to a lighter, strictly front-end project to solidify my React state management skills before starting the next IBM course.
+
+## Day 74: June 3, 2026 (Pivoting & Securing the Quick Win 🎯)
+* **Status:** New Project Initialized. Focused on rapid portfolio deployment.
+* **What I accomplished today:** Transitioned my focus from the heavy AI backend project to a strictly Front-End, highly interactive application. The goal today is to architect a project (like a Smart Kanban Board or a Pomodoro Tracker) that explicitly showcases my mastery of React Hooks, global state management, and complex UI interactions (like Drag & Drop or Time Intervals).
+* **Engineering Insight:** Software engineering is about maintaining momentum. By pivoting to a manageable, high-impact front-end project, I ensure that I complete a polished, production-ready portfolio piece before diving into the next heavy bootcamp course. Securing a "Quick Win" keeps morale high and the GitHub contribution graph active.
+* **Next Target:** Write the foundational React code for this new project and deploy it.
