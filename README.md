@@ -530,3 +530,13 @@ No matter the result, I am very proud of my performance today. This is a huge st
 * **Engineering Insight:** Building a true MVP (Minimum Viable Product) requires extreme discipline. It was tempting to add endless features, but focusing strictly on making the core pipeline (Upload -> Python DSP AI Processing -> React UI Update -> Download) flawless was the right architectural choice. Furthermore, debugging the Git Monorepo issues proved that managing the infrastructure of the code is just as critical as writing the code itself. 
 
 * **Next Target:** Celebrate the deployment of this massive portfolio piece, let the Full-Stack architectural concepts consolidate, and prepare to initialize the next phase of the IBM Bootcamp.
+
+## Day 84: June 13, 2026 (System Upgraded - The Server-Side Era 🖥️⚙️)
+
+* **Status:** System Upgraded. Officially initialized Course 6: "Developing Back-End Apps with Node.js and Express".
+
+* **What I accomplished today:** Shifted my focus back to the IBM Professional Certificate after successfully deploying my portfolio MVP. Dove directly into the architectural foundations of Node.js. Explored how the V8 JavaScript engine is extracted from the browser to run directly on the operating system, and began analyzing Node's non-blocking, event-driven I/O model.
+
+* **Engineering Insight:** The true power of the MERN stack is now becoming completely apparent. Using the exact same language (JavaScript) for both the UI (React) and the Server (Node.js) eliminates the cognitive friction of context switching. Having just built a Python/FastAPI backend for my AI Audio project, diving into Node.js provides me with a powerful macroscopic view of backend architecture. I can now actively compare how different environments handle HTTP requests, asynchronous operations, and REST API routing. 
+
+* **Next Target:** Master Node's core built-in modules, understand the Event Loop mechanics, and architect my very first local web server using the Express.js framework.
