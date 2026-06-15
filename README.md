@@ -540,3 +540,11 @@ No matter the result, I am very proud of my performance today. This is a huge st
 * **Engineering Insight:** The true power of the MERN stack is now becoming completely apparent. Using the exact same language (JavaScript) for both the UI (React) and the Server (Node.js) eliminates the cognitive friction of context switching. Having just built a Python/FastAPI backend for my AI Audio project, diving into Node.js provides me with a powerful macroscopic view of backend architecture. I can now actively compare how different environments handle HTTP requests, asynchronous operations, and REST API routing. 
 
 * **Next Target:** Master Node's core built-in modules, understand the Event Loop mechanics, and architect my very first local web server using the Express.js framework.
+
+
+## Day 85: June 14, 2026 (The Backend Blueprint & Core Modules Mastery 🏗️)
+
+* **Status:** Milestone Reached. Officially crossed the 20% completion mark in Course 6 (Node.js & Express).
+* **What I accomplished today:** Deep dived into the "black box" of the Node.js runtime environment. Mastered the essential Core Modules (`http`, `fs`, `os`, `path`, `util`, and `url`). Transitioned from theoretical concepts to analyzing actual server-side code, specifically focusing on how Node.js reads local files and interacts with the operating system.
+* **Engineering Insight:** Understanding *how* Node.js interacts directly with the OS changes the entire perspective of web development. JavaScript is no longer confined to the browser's sandbox. Grasping the event-driven, non-blocking I/O model (the difference between `fs.readFile` and `fs.readFileSync`) is the absolute key to building highly scalable APIs. Architecturally, I now understand exactly why Node.js excels at handling thousands of concurrent network requests, yet is not suited for heavy CPU-bound computations.
+* **Next Target:** Transitioning from the raw, low-level built-in `http` module to mastering the Express.js framework to streamline routing and build robust REST APIs.
