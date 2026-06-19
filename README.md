@@ -569,3 +569,30 @@ No matter the result, I am very proud of my performance today. This is a huge st
 * **What I accomplished today:** Officially started the second module of the backend course. The central focus of today's deep work was mastering **Asynchronous I/O with Callbacks**. I studied how Node.js handles time-consuming operations (like reading from a database or a file system) without blocking the main execution thread.
 * **Engineering Insight:** The true power of Node.js lies in its Event Loop and non-blocking architecture. Instead of a server waiting idly for a file to be read (Synchronous), it delegates the task and moves on to serve the next user. When the task is complete, a "Callback" function is triggered to handle the result. Understanding this pattern is the difference between writing amateur scripts and architecting enterprise-grade, highly scalable servers that don't bottleneck under heavy traffic.
 * **Next Target:** Continue dissecting asynchronous patterns. Prepare to evolve from basic Callbacks to more advanced structures like Promises and Async/Await to avoid "Callback Hell".
+
+## Day 89: June 18, 2026 (Refactoring the UI Architecture 🎨)
+
+* **Status:** Backend/Frontend Architecture Refactor.
+* **What I accomplished today:**Performed a comprehensive refactor of the AudioWorkspace architecture.
+* **Engineering Insight:** 
+Performance Optimization: Resolved the "Playhead lag" by removing unnecessary CSS transitions and leveraging will-change: left to offload rendering to the GPU, ensuring 60FPS synchronization.
+UI/UX Overhaul: Upgraded the Timeline visual design with a custom grid background and implemented a professional "Active Highlight" system for dynamic subtitle elements.
+Component Modularity: Successfully decoupled the UI components to allow the Subtitles track to dynamically map and display data, ensuring the "Active" state highlights correctly as the audio plays.
+
+* **Key Takeaway:** Precision is the difference between a tool and a product. By removing "animation latency," the user experience moved from feeling "synthetic" to feeling like a high-performance native desktop application.
+
+
+## Day 90: June 19, 2026 (Full-Stack Integration & AI Logic 🎙️🧠)
+
+* **Status:** AI Logic & Full-Stack Pipeline Deployment.
+* **What I accomplished today:** Integrated real-time AI transcription capabilities and implemented an advanced feature export system.
+* **Engineering Insight:** 
+Whisper AI Integration: Successfully swapped the local (mock) transcription engine with a professional-grade API pipeline. Configured specific parameters (Language: Japanese, Task: Transcribe) to ensure high-fidelity output.
+Dynamic Export System: Engineered the "Export Processed" system. Now, once the audio is modified (Splitter/Enhancer), the UI intelligently injects a "Download HD Export" button, providing a seamless path for users to retrieve their processed media.
+Data Handling: Implemented robust handling for the API response, ensuring that subtitle data (timestamps + text) maps perfectly to the React Timeline track, allowing users to interactively hover and view full subtitle segments.
+Component Modularity: Successfully decoupled the UI components to allow the Subtitles track to dynamically map and display data, ensuring the "Active" state highlights correctly as the audio plays.
+
+* **Key Takeaway:** Today's focus was on the Data Pipeline. The challenge wasn't just the AI; it was ensuring that the data returned by the API (timestamps) aligns perfectly with the visual timeline width in the UI. This is the core of modern SaaS platforms: a seamless journey from raw input (the file) to AI-refined output (the script/audio).
+
+* **Next Target:** Transitioning back to the IBM Backend course (Node.js/Express) to solidify the server-side architecture required to host this API pipeline securely.
+
