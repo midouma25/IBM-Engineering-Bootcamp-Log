@@ -612,3 +612,15 @@ Component Modularity: Successfully decoupled the UI components to allow the Subt
 * **Engineering Insight:**  The gap between a "good" web app and a "professional" software product lies in micro-interactions and state predictability. Allowing users to dynamically resize their workspace and safely undo actions requires a deep understanding of React's render cycle and state immutability. By mastering these interactions, I am no longer just building websites; I am engineering robust software tools.
 
 * **Next Target:** Transitioning back to the IBM Back-End course (Node.js & Express). It's time to build the local server infrastructure to securely manage API keys and handle heavy audio processing natively.
+
+## Day 91.5: June 20, 2026 (Backend Migration, Modular Routing & API Security 🚀)
+
+* **Status:** Backend Core Refactored & Fully Operational.
+* **What I accomplished today:** Transitioned the application into a robust Full-Stack architecture by developing a dedicated Node.js/Express.js backend server, achieving the following milestones:
+    * Decoupled Business Logic: Successfully migrated the heavy audio transcription and multi-language translation payload from React (Frontend) to Node.js, ensuring an optimized single-responsibility frontend layout.
+    * Modular Express Routing: Restructured the backend architecture using `express.Router()`. Abstracted all audio-processing utilities into a dedicated `routes/audio.js` module, keeping `server.js` clean and scalable.
+    * Custom Middleware Pipeline: Implemented a continuous middleware pipeline including `requestLogger` for real-time traffic monitoring, `multer` for raw binary stream buffering, and a strict validation layer `validateAIRequest`.
+    * Global Error Handling: Designed a centralized, top-level Error-Handling Middleware to gracefully catch asynchronous failures across all application endpoints and return unified JSON error payloads, preventing runtime server crashes.
+    * Enterprise-grade API Security: Mitigated the risk of credential leakage by moving sensitive cloud keys to a secure `.env` layer, establishing `.gitignore` tracking exclusion rules, and creating a `.env.example` blueprint for secure open-source contribution workflows.
+* **Engineering Insight:** True backend engineering requires deep respect for runtime order and execution lifecycles. Debugging ES Module hoisting issues—where module imports execute before configuration variables load—highlighted the vital importance of middleware sequence. Separating standard business routing from server initiation parameters creates codebases that are resilient, easily maintainable, and secure by default.
+* **Next Target:** Diving deeper into Node.js asynchronous architecture and setting up data persistence configurations to allow persistent tracking of processed audio history.
