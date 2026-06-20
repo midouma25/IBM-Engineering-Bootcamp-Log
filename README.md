@@ -594,5 +594,21 @@ Component Modularity: Successfully decoupled the UI components to allow the Subt
 
 * **Key Takeaway:** Today's focus was on the Data Pipeline. The challenge wasn't just the AI; it was ensuring that the data returned by the API (timestamps) aligns perfectly with the visual timeline width in the UI. This is the core of modern SaaS platforms: a seamless journey from raw input (the file) to AI-refined output (the script/audio).
 
-* **Next Target:** Transitioning back to the IBM Backend course (Node.js/Express) to solidify the server-side architecture required to host this API pipeline securely.
+* **Next Target:** Transitioning back to the IBM Backend course (Node.js/Express) to solidify the ser* ver-side architecture required to host this API pipeline securely.
 
+
+## Day 91: June 20, 2026 (Advanced UI Architecture & State Management 🚀)
+
+* **Status:** AI Logic & Full-Stack Pipeline Deployment.
+* **What I accomplished today:** Upgraded the AI Audio Studio from a standard web app to a "Desktop-grade" interactive application by engineering three major architectural features:
+
+* **Click-to-Seek Engine:** Bridged the React Transcript component with the WaveSurfer audio instance, allowing instant audio navigation when clicking on generated subtitles.
+
+* **History State Management (Undo/Redo):** Architected a custom state history engine to track applied AI filters, enabling users to safely revert or reapply destructive audio modifications.
+
+* **Dynamic Resizable Layout:** Implemented a draggable horizontal splitter, granting users complete control over the workspace dimensions (Waveform vs. Timeline) without layout breaking.
+
+* **60FPS Playhead Optimization:** Completely rewrote the Playhead logic to use strict percentage-based positioning (will-change: left) within a bounding box, eliminating rendering jitter entirely.
+* **Engineering Insight:**  The gap between a "good" web app and a "professional" software product lies in micro-interactions and state predictability. Allowing users to dynamically resize their workspace and safely undo actions requires a deep understanding of React's render cycle and state immutability. By mastering these interactions, I am no longer just building websites; I am engineering robust software tools.
+
+* **Next Target:** Transitioning back to the IBM Back-End course (Node.js & Express). It's time to build the local server infrastructure to securely manage API keys and handle heavy audio processing natively.
