@@ -735,16 +735,19 @@ Component Modularity: Successfully decoupled the UI components to allow the Subt
 
 
 
-## 📅 Day 99: Developer Diary | June 28, 2026
+### Day 99 | June 28, 2026: System Architecture & Asynchronous Job Polling 🚀
+**Focus:** Backend optimization and solving the "Browser Freeze" timeout issue.
 
-**Status:** High-Velocity Coding & Peak Physical Conditioning 🏋️‍♂️🔥
-**Current Project :** Audio Master AI (Full-Stack Evolution) 🎙️
+- **The Problem:** Processing heavy audio files (35MB+ WAV) through the AI vocal extractor (HTDemucs) caused the React frontend to freeze and timeout after 15 minutes due to massive synchronous HTTP payload streams.
+- **The Solution:** I completely re-architected the Node.js backend. I decoupled the AI processing from the HTTP response by building a Local Job Queue (Serverless-style). Implemented a Polling mechanism where the frontend starts a task, receives a `jobId`, and asynchronously pings the server for status updates.
+- **Outcome:** Zero browser freezing! The connection between the React UI and the Python AI engine (running on the RTX GPU) is now 100% stable and scalable.
 
 
-### 📝 Today's Achievements:
-- Engineered the communication bridge between the React Front-End and the Express Back-End. Prepared the API routing architecture to safely receive, buffer, and process heavy audio file uploads from the user UI.
-- Had an absolute breakthrough in my physical training routine today. Pushed my endurance and strength to a new personal best.
 
-### 📝 Next Goal:
-- Integrate the hardcore AI logic (Python, Demucs, FFmpeg) into the Node.js backend and ensure the frontend can handle the data streams without locking the main thread.
+### Day 100| June 29, 2026: Audio Engineering, Multi-Track UI, & The "Black Screen" Fix 🎧
+**Focus:** Audio compression (FFmpeg), React UI overhaul, and debugging `Wavesurfer.js`.
+
+- **The Bug:** Faced a critical React crash (`The provided double value is non-finite`) resulting in a black screen. I debugged it and found the root cause: streaming audio pipes lacked proper ID3 Duration headers, which caused the `Wavesurfer.js` calculation to evaluate to `NaN`.
+- **The Fix:** Integrated `fluent-ffmpeg` to encode the heavy WAV files into lightweight MP3s on-the-fly (saving ~90% of the payload size). Saved the files locally first to inject the correct metadata headers before serving them to the client. Added a `safeSeekToTime` safety shield in React to prevent `NaN` values from breaking the DOM.
+- **UI/UX Upgrade:** Transformed the frontend into a professional "Multi-Track Studio". The UI now renders three synchronized waveforms simultaneously (Master Track, Isolated Vocals, and Instrumentals). Added a dynamic dropdown allowing users to toggle the AI extraction between "Fast Mode" (1 shift) and "Studio Quality" (3 shifts).
 
