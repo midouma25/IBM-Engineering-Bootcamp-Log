@@ -751,3 +751,37 @@ Component Modularity: Successfully decoupled the UI components to allow the Subt
 - **The Fix:** Integrated `fluent-ffmpeg` to encode the heavy WAV files into lightweight MP3s on-the-fly (saving ~90% of the payload size). Saved the files locally first to inject the correct metadata headers before serving them to the client. Added a `safeSeekToTime` safety shield in React to prevent `NaN` values from breaking the DOM.
 - **UI/UX Upgrade:** Transformed the frontend into a professional "Multi-Track Studio". The UI now renders three synchronized waveforms simultaneously (Master Track, Isolated Vocals, and Instrumentals). Added a dynamic dropdown allowing users to toggle the AI extraction between "Fast Mode" (1 shift) and "Studio Quality" (3 shifts).
 
+### Day 101: June 30, 2026 (Stealth Mode: The Spectrogram & Zero-Freeze Architecture 👁️⚡)
+**Status:** Deep Flow State (No commits pushed to keep branch history clean during heavy refactoring).
+
+- **What I accomplished today:** Transitioned the "Audio Master AI" from a standard waveform visualizer to a Forensic Audio tool.
+
+- **Visual Spectrum:** Integrated a high-resolution Spectrogram (wavesurfer.js plugin) mapping frequencies up to 16,000Hz, allowing users to visually identify harsh Sibilance ('S' sounds) and background noise as thermal heatmaps.
+
+- **Zero-Freeze Architecture:** Identified a critical CPU bottleneck where the browser's Main Thread crashed (Page Unresponsive) due to processing 15+ million audio samples client-side (bufferToWave loop). Completely gutted the client-side processing, shifting the entire heavy payload to the Node.js backend.
+
+- **Engineering Insight:** The golden rule of Web Architecture: "Heavy operations belong on the server." A beautiful UI is useless if it chokes the client's CPU. By refactoring the app to instantly transmit raw audio files and rely entirely on asynchronous Polling, the UI now operates at a flawless 60FPS with zero latency, regardless of the file size.
+
+### Day 102: July 1, 2026 (Advanced DSP & The Audition-Style De-Esser 🎛️✂️)
+**Status:** Backend Audio Engineering & FFmpeg Complex Filters.
+
+**What I accomplished today:** Scrapped the initial De-Esser logic which resulted in "muffled" or "muddy" audio. Engineered a surgical, Adobe Audition-grade audio processing pipeline.
+
+**The Muffled Audio Bug:** Discovered that splitting audio tracks (Highpass/Lowpass) and merging them in FFmpeg causes "Phase Cancellation / Comb Filtering," destroying high frequencies.
+
+**The Surgical Fix:** Re-architected the FFmpeg pipeline to use a Parametric EQ Notch (equalizer=f=6500:width_type=q:w=1.5:g=-14). Instead of splitting the track, the server now applies a targeted -14dB drop exactly at 6500Hz only during the specific milliseconds the user highlighted on the Spectrogram.
+
+**Engineering Insight:** Audio engineering in code requires strict adherence to physics. Broadband compression destroys the vocal body, while targeted Spectral Repair preserves 100% of the original audio fidelity. Moving from "Broadband" to "Surgical Multiband" logic elevated the SaaS output from amateur to Studio-Grade.
+
+### Day 103: July 2, 2026 (Python AI Denoise Engine & Hyperparameter Tuning 🤖🎧)
+**Status:** Full-Stack Integration & AI Logic Calibration.
+
+**What I accomplished today:** Finalized the AI Noise Reduction pipeline by bridging the Node.js Express server with a spawned Python child process.
+
+**Format Agnostic Engine:** Replaced strict WAV decoders with librosa and soundfile in Python, allowing the backend AI to ingest any audio/video format (MP3, M4A, MP4) without throwing "Format not recognised" headers errors.
+
+**Hyperparameter Tuning:** Conducted A/B testing on the AI Denoise engine. Discovered that an 85% noise reduction aggressively consumed human vocal frequencies, making them sound robotic. Tuned the prop_decrease to 0.65 (65%) and increased time_mask_smooth_ms to 64ms.
+
+**Engineering Insight:** In AI and Machine Learning, more reduction isn't always better. The "Performance vs. Quality Trade-off" is real. Leaving a tiny, imperceptible amount of a noise floor (35%) preserves the "crispness" and natural breath of the human voice. The MERN + Python microservices architecture is now fully robust, asynchronous, and delivering Hollywood-level audio repair directly in the browser.
+
+**Next Target:** Execute automated Backtesting on the AI engine to generate performance benchmarks, and prepare the project for its final production deployment.  
