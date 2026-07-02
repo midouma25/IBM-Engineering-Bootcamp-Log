@@ -735,7 +735,7 @@ Component Modularity: Successfully decoupled the UI components to allow the Subt
 
 
 
-### 📅 Day 99 | June 28, 2026: System Architecture & Asynchronous Job Polling 🚀
+## 📅 Day 99 | June 28, 2026: System Architecture & Asynchronous Job Polling 🚀
 
 
 **Focus:** Backend optimization and solving the "Browser Freeze" timeout issue.
@@ -746,7 +746,7 @@ Component Modularity: Successfully decoupled the UI components to allow the Subt
 
 
 
-### 📅 Day 100 | June 29, 2026: Audio Engineering, Multi-Track UI, & The "Black Screen" Fix 🎧
+## 📅 Day 100 | June 29, 2026: Audio Engineering, Multi-Track UI, & The "Black Screen" Fix 🎧
 
 
 **Focus:** Audio compression (FFmpeg), React UI overhaul, and debugging `Wavesurfer.js`.
@@ -755,7 +755,7 @@ Component Modularity: Successfully decoupled the UI components to allow the Subt
 - **The Fix:** Integrated `fluent-ffmpeg` to encode the heavy WAV files into lightweight MP3s on-the-fly (saving ~90% of the payload size). Saved the files locally first to inject the correct metadata headers before serving them to the client. Added a `safeSeekToTime` safety shield in React to prevent `NaN` values from breaking the DOM.
 - **UI/UX Upgrade:** Transformed the frontend into a professional "Multi-Track Studio". The UI now renders three synchronized waveforms simultaneously (Master Track, Isolated Vocals, and Instrumentals). Added a dynamic dropdown allowing users to toggle the AI extraction between "Fast Mode" (1 shift) and "Studio Quality" (3 shifts).
 
-### 📅 Day 101: June 30, 2026 (Stealth Mode: The Spectrogram & Zero-Freeze Architecture 👁️⚡)
+## 📅 Day 101: June 30, 2026 (Stealth Mode: The Spectrogram & Zero-Freeze Architecture 👁️⚡)
 
 
 **Status:** Deep Flow State (No commits pushed to keep branch history clean during heavy refactoring).
@@ -768,7 +768,7 @@ Component Modularity: Successfully decoupled the UI components to allow the Subt
 
 - **Engineering Insight:** The golden rule of Web Architecture: "Heavy operations belong on the server." A beautiful UI is useless if it chokes the client's CPU. By refactoring the app to instantly transmit raw audio files and rely entirely on asynchronous Polling, the UI now operates at a flawless 60FPS with zero latency, regardless of the file size.
 
-### 📅 Day 102: July 1, 2026 (Advanced DSP & The Audition-Style De-Esser 🎛️✂️)
+## 📅 Day 102: July 1, 2026 (Advanced DSP & The Audition-Style De-Esser 🎛️✂️)
 
 
 **Status:** Backend Audio Engineering & FFmpeg Complex Filters.
@@ -781,7 +781,7 @@ Component Modularity: Successfully decoupled the UI components to allow the Subt
 
 **Engineering Insight:** Audio engineering in code requires strict adherence to physics. Broadband compression destroys the vocal body, while targeted Spectral Repair preserves 100% of the original audio fidelity. Moving from "Broadband" to "Surgical Multiband" logic elevated the SaaS output from amateur to Studio-Grade.
 
-### 📅 Day 103: July 2, 2026 (Python AI Denoise Engine & Hyperparameter Tuning 🤖🎧)
+## 📅 Day 103: July 2, 2026 (Python AI Denoise Engine & Hyperparameter Tuning 🤖🎧)
 **Status:** Full-Stack Integration & AI Logic Calibration.
 
 **What I accomplished today:** Finalized the AI Noise Reduction pipeline by bridging the Node.js Express server with a spawned Python child process.
