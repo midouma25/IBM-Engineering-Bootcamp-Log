@@ -736,6 +736,8 @@ Component Modularity: Successfully decoupled the UI components to allow the Subt
 
 
 ### Day 99 | June 28, 2026: System Architecture & Asynchronous Job Polling 🚀
+
+
 **Focus:** Backend optimization and solving the "Browser Freeze" timeout issue.
 
 - **The Problem:** Processing heavy audio files (35MB+ WAV) through the AI vocal extractor (HTDemucs) caused the React frontend to freeze and timeout after 15 minutes due to massive synchronous HTTP payload streams.
@@ -744,7 +746,9 @@ Component Modularity: Successfully decoupled the UI components to allow the Subt
 
 
 
-### Day 100| June 29, 2026: Audio Engineering, Multi-Track UI, & The "Black Screen" Fix 🎧
+### Day 100 | June 29, 2026: Audio Engineering, Multi-Track UI, & The "Black Screen" Fix 🎧
+
+
 **Focus:** Audio compression (FFmpeg), React UI overhaul, and debugging `Wavesurfer.js`.
 
 - **The Bug:** Faced a critical React crash (`The provided double value is non-finite`) resulting in a black screen. I debugged it and found the root cause: streaming audio pipes lacked proper ID3 Duration headers, which caused the `Wavesurfer.js` calculation to evaluate to `NaN`.
@@ -752,6 +756,8 @@ Component Modularity: Successfully decoupled the UI components to allow the Subt
 - **UI/UX Upgrade:** Transformed the frontend into a professional "Multi-Track Studio". The UI now renders three synchronized waveforms simultaneously (Master Track, Isolated Vocals, and Instrumentals). Added a dynamic dropdown allowing users to toggle the AI extraction between "Fast Mode" (1 shift) and "Studio Quality" (3 shifts).
 
 ### Day 101: June 30, 2026 (Stealth Mode: The Spectrogram & Zero-Freeze Architecture 👁️⚡)
+
+
 **Status:** Deep Flow State (No commits pushed to keep branch history clean during heavy refactoring).
 
 - **What I accomplished today:** Transitioned the "Audio Master AI" from a standard waveform visualizer to a Forensic Audio tool.
@@ -763,6 +769,8 @@ Component Modularity: Successfully decoupled the UI components to allow the Subt
 - **Engineering Insight:** The golden rule of Web Architecture: "Heavy operations belong on the server." A beautiful UI is useless if it chokes the client's CPU. By refactoring the app to instantly transmit raw audio files and rely entirely on asynchronous Polling, the UI now operates at a flawless 60FPS with zero latency, regardless of the file size.
 
 ### Day 102: July 1, 2026 (Advanced DSP & The Audition-Style De-Esser 🎛️✂️)
+
+
 **Status:** Backend Audio Engineering & FFmpeg Complex Filters.
 
 **What I accomplished today:** Scrapped the initial De-Esser logic which resulted in "muffled" or "muddy" audio. Engineered a surgical, Adobe Audition-grade audio processing pipeline.
