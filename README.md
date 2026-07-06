@@ -813,3 +813,24 @@ Component Modularity: Successfully decoupled the UI components to allow the Subt
 **Engineering Insight:** The gap between functional code and a production-grade product is bridged by handling edge cases. By standardizing the audio encoding pipeline and tightening the state management between the frontend and the AI backend, I have elevated the Audio Master AI from a prototype to a stable, developer-ready SaaS tool.
 
 💡 "System stability is the product of meticulous debugging. Every bug fixed is a brick added to the foundation of a robust architecture."
+
+## 📅 Day 106 | July 5, 2026: Advanced State Lifting & The Real-Time Challenge ⚛️⚡
+**Focus:** Refactoring React architecture for Real-Time Audio FX Preview.
+
+**The Challenge:** Attempted to upgrade the `EffectsRack` from a static configuration panel to a dynamic "Live Preview" engine. The goal was to bind the UI sliders (Pitch, EQ, Reverb) directly to the browser's audio engine (`SmartTimeline`) so users could hear DSP modifications in real-time before hitting "Apply".
+
+**The Architecture:** Executed a "State Lifting" operation. Attempted to extract local states from the `EffectsRack` component and elevate them into a centralized `liveFx` state within the parent `AudioWorkspace`.
+
+**The Bug:** The complexity of the component tree led to severe "State vs Props Collisions." Duplicated component declarations and misrouted props caused the Vite compiler to throw fatal parsing errors (`Identifier has already been declared`), resulting in a complete UI crash and a blank screen.
+
+**Engineering Insight:** React's unidirectional data flow is extremely strict. When migrating local states to a global or parent level, the underlying component architecture must be meticulously cleaned up. Copy-paste operations in highly modularized environments (like lifting states across multiple files) compound errors rapidly. This reinforced the importance of isolated component testing before executing global state integrations.
+
+
+## 📅 Day 107 | July 6, 2026: Disaster Recovery, Rollback & MVP Stabilization 🛡️⏪
+**Focus:** Crisis management, version control, and solidifying the stable Full-Stack pipeline.
+
+**The Action Taken:** Instead of falling into the "sunk cost fallacy" and forcing a broken Live Preview feature, I executed a strict architectural rollback to the last known stable production state. 
+
+**The Fix:** Restored the `EffectsRack` to operate with encapsulated, independent local states (`useState` for EQ, Delay, Pitch). Completely decoupled the UI styling and functionality from the parent workspace to prevent any prop-drilling memory leaks. Re-verified the Full-Stack API connection. The frontend now safely bundles the parameters into a `FormData` payload and securely POSTs it to the Express/Node.js backend for heavy processing.
+
+**Engineering Insight:** A Senior Engineer knows exactly when to cut losses and revert. The Agile manifesto states that "Working software is the primary measure of progress." By strategically deferring the Live Preview feature, I protected the core stability of the application. The system now flawlessly handles the User Input -> Node.js Routing -> FFmpeg Audio Processing -> MP3 Compression pipeline with 0% crash rate. System integrity always outweighs experimental features.
