@@ -839,3 +839,29 @@ Component Modularity: Successfully decoupled the UI components to allow the Subt
 **The Fix:** Restored the `EffectsRack` to operate with encapsulated, independent local states (`useState` for EQ, Delay, Pitch). Completely decoupled the UI styling and functionality from the parent workspace to prevent any prop-drilling memory leaks. Re-verified the Full-Stack API connection. The frontend now safely bundles the parameters into a `FormData` payload and securely POSTs it to the Express/Node.js backend for heavy processing.
 
 **Engineering Insight:** A Senior Engineer knows exactly when to cut losses and revert. The Agile manifesto states that "Working software is the primary measure of progress." By strategically deferring the Live Preview feature, I protected the core stability of the application. The system now flawlessly handles the User Input -> Node.js Routing -> FFmpeg Audio Processing -> MP3 Compression pipeline with 0% crash rate. System integrity always outweighs experimental features.
+
+## 📅 Days 108-112 | July 7-11, 2026: Portfolio Scaling & The Enhancer Bottleneck 🎙️🔧
+
+* **Focus:** Continuous development of the personal AI portfolio and debugging the AI Voice Enhancer module.
+* **Status:** Deep debugging mode & System troubleshooting.
+* **What I accomplished:** Dedicated this multi-day sprint to refining the architecture of my main site. I pushed forward with integrating the Full-Stack features but hit a significant friction point with the core Voice Enhancer logic.
+* **Engineering Insight:** Integrating complex DSP (Digital Signal Processing) and AI models into a web environment is rarely a straight line. Dealing with this voice enhancer bottleneck is testing my problem-solving endurance. The challenge of identifying whether the bug exists in the React state management, the Node.js API pipeline, or the Python AI processing layer is the true essence of Full-Stack engineering. Complex problems require methodical isolation.
+
+## 📅 Day 113 | July 12, 2026: System Upgraded - The Data Science Era Begins 🐍📊
+
+* **Focus:** Initializing Course 7 and executing Quality Assurance (QA) on the audio platform.
+* **Status:** Dual-processing (Theoretical Learning & Practical Testing).
+* **What I accomplished today:**
+    * **Course Launched:** Officially started the next critical phase of the IBM Bootcamp: *"Python for Data Science, AI & Development"*.
+    * **Audio QA Testing:** Shifted to practical deployment in the evening. Conducted rigorous A/B testing on my website by uploading and processing numerous diverse audio clips to stress-test the backend.
+* **Engineering Insight:** You cannot build robust AI systems without a deep foundation in Data Science. Moving into this Python-focused course directly supports my goal of building better, more efficient audio models. Furthermore, theoretical AI knowledge means nothing if it breaks in production—my evening QA testing is crucial to stressing the backend pipeline and evaluating the real-world performance of the audio models under different conditions.
+
+## 📅 Day 114 | July 13, 2026: Python Foundation Re-established 🏗️🐍
+
+**Current Course:** Python for Data Science, AI & Development 💻
+**Current Progress:** [██░░░░░░░░░░░░░░░░░░] 11% 🚀
+**Status:** Module 1 Conquered.
+
+* **What I accomplished today:** Rapidly progressed to the 11% mark of the new course. Successfully finished Module 1 (Python Basics), completely refreshing and solidifying my understanding of core Python syntax, data types, and fundamental programming structures.
+* **Engineering Insight:** Even though I have already built Python/FastAPI backend microservices, formally reviewing the absolute basics removes any hidden technical debt. A skyscraper is only as stable as its foundation. Mastering Data Science and AI requires absolute fluency in Python's core data structures before moving on to heavy libraries like Pandas and Numpy.
+* **Next Target:** Advance to Module 2 to explore complex data structures (Lists, Tuples, Dictionaries) and logic functions. Preparing the groundwork to handle complex datasets for future Multimodal AI architectures.
