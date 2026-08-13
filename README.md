@@ -1000,3 +1000,122 @@ In software engineering, there is a famous concept known as the Pareto principle
 
 ---
 💡 *"Code is just syntax until it solves a real-world problem. Turning architecture into a commercial asset is the ultimate developer milestone."*
+
+## 📅 Day 126 | July 25, 2026: Pre-Release QA & System Optimization 🔍⚙️
+
+| Key | Value |
+|-----|-------|
+| **Focus** | Edge-case handling and codebase optimization |
+| **Status** | Pre-production environment |
+
+### What I accomplished:
+- Executed a massive Quality Assurance (QA) sprint on the commercial software
+- Actively fed the system unexpected inputs to test database constraints
+- Refactored redundant functions to optimize execution time before the final build
+
+> **Engineering Insight:** Writing code is 80% of the job; making it unbreakable is the remaining 20%. Stress-testing the application today ensures zero critical failures in production tomorrow.
+
+---
+
+## 📅 Day 127 | July 26, 2026: System Offline (Hardware Maintenance) ⏸️🤸‍♂️
+
+| Key | Value |
+|-----|-------|
+| **Focus** | Active recovery and physical conditioning |
+| **Status** | Scheduled Reboot (Rest Day) |
+
+### What I accomplished:
+- Complete detachment from the IDE
+- Dedicated the day to physical training (Calisthenics)
+- Flushed the cognitive cache and prevented burnout
+
+> **Engineering Insight:** You cannot run high-performance algorithms on degraded hardware. Taking a strict rest day builds the mental endurance required for the next software engineering marathon.
+
+---
+
+## 📅 Days 128-132 | July 27 - July 31, 2026: Product Launch & Python Certificate 🚀🐍
+
+| Key | Value |
+|-----|-------|
+| **Focus** | Commercial deployment and Data Science academics |
+| **Status** | Milestone Achieved |
+
+### What I accomplished:
+- **Commercial Handover:** Successfully compiled the final `.exe` build for the commercial software and delivered it to the client
+- **Course Completed:** Blazed through the remainder of Course 7 (Python for Data Science)
+  - Mastered `Pandas`, `Numpy`, and `DataFrames`
+  - Passed the final assessment and earned the certificate
+
+> **Engineering Insight:** Balancing a live commercial product launch while finishing an academic certification requires extreme context-switching abilities. The Python data structures I mastered here will fuel the backend architecture of my upcoming enterprise projects.
+
+---
+
+## 📅 Days 133-138 | August 1 - August 6, 2026: Architecting GHERBI.AI POS SYSTEM 🏗️💻
+
+| Key | Value |
+|-----|-------|
+| **Focus** | Initializing a multi-environment Desktop Application (Electron + React + Express) |
+| **Status** | Project Scaffolding & Core Architecture |
+
+### What I accomplished:
+- Commenced the most ambitious project yet: **GHERBI.AI POS System**
+- Engineered a dual-application architecture:
+  - **Server (Manager):** Powerful backend
+  - **Client (Cashier):** Lightweight frontend
+- Integrated a local Node.js/Express server directly inside the Electron desktop app
+- Enabled cashiers to connect via local network (LAN) using IP addresses
+
+> **Engineering Insight:** Building web apps is standard, but embedding a full web server inside a compiled Windows Desktop application (Electron) is advanced system engineering. This architecture guarantees the POS runs 100% offline with zero latency.
+
+---
+
+## 📅 Days 139-142 | August 7 - August 10, 2026: Network Infrastructure & Client Configurations 📡🔌
+
+| Key | Value |
+|-----|-------|
+| **Focus** | IP Caching, Firewall rules, and Client-Server handshake |
+| **Status** | Network Integration Phase |
+
+### What I accomplished:
+- Developed a smart IP caching system (`server_ip.json` in AppData)
+  - Cashier App only asks for server IP on first boot
+- Configured Windows Defender Firewall rules (Port 3000 TCP)
+- Set Network Profiles (Private Network) for seamless Windows 10 Server ↔ Windows 7 Cashier communication
+
+> **Engineering Insight:** Software engineering in the real world isn't just about code; it's about the environment. Understanding OS-level networking, firewalls, and subnets is what bridges the gap between a local localhost script and a commercial multi-device system.
+
+---
+
+## 📅 Days 143-144 | August 11 - August 12, 2026: The Ultimate Debugging Marathon 🐛🔥
+
+| Key | Value |
+|-----|-------|
+| **Focus** | Resolving Electron build issues, app.asar encryption, and Legacy OS compatibility |
+| **Status** | Bug Squashing & Production Build |
+
+### What I accomplished:
+Encountered and successfully resolved the most complex integration bugs to date:
+
+#### 🔧 The "White Screen" Fix
+```javascript
+// Corrected Vite's relative paths
+base: './'  // Prevents "Not allowed to load local resource" errors
+```
+
+#### 🔧 The Cannot GET / Express 5 Crash
+```javascript
+// Replaced legacy wildcard with standard RegExp
+app.get(/.*/, ...)  // Instead of app.get('*', ...)
+```
+
+#### 🔧 The app.asar Extraction
+- Modified `package.json` to extract `frontend/dist` into `extraResources`
+- Enabled Express server to read React files outside encrypted Electron bundle
+
+#### 🔧 Windows 7 Legacy Support
+- Downgraded from **Tailwind v4** (oklch colors) → **Tailwind v3**
+- Disabled GPU hardware acceleration: `--max-old-space-size=512`
+- Ensured flawless compatibility on low-end 32-bit hardware
+- Prevented color inversion and white screen freezes
+
+> **Engineering Insight:** Real engineering is heavily tested during the "Build" phase. Navigating through undocumented Electron packaging behaviors and ensuring modern React code compiles correctly for a 15-year-old operating system (Windows 7) is a masterclass in DevOps and backward compatibility. **The system is now unbreakable.**
