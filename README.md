@@ -1119,3 +1119,43 @@ app.get(/.*/, ...)  // Instead of app.get('*', ...)
 - Prevented color inversion and white screen freezes
 
 > **Engineering Insight:** Real engineering is heavily tested during the "Build" phase. Navigating through undocumented Electron packaging behaviors and ensuring modern React code compiles correctly for a 15-year-old operating system (Windows 7) is a masterclass in DevOps and backward compatibility. **The system is now unbreakable.**
+
+
+## Day 145-146: August 13-14, 2026
+* **Type:** `chore(system)`
+* **Commit:** `execute hardware maintenance and cognitive reset`
+* **Log:** Successfully shipped the POS system. Executed a deliberate 48-hour system shutdown to clear cognitive cache and prevent burnout before initializing the heavy algorithmic phase of the school scheduling project.
+
+## Day 147-152: August 15-20, 2026
+* **Type:** `feat(core)` / `feat(solver)`
+* **Commit:** `initialize SmartEdu CEM architecture and bridge C++ FET solver`
+* **Log:** 
+  - Scaffolded the monolithic desktop environment using Electron, React, Node.js, and SQLite.
+  - Engineered a custom Node.js bridge to parse relational SQLite data into strict XML formats.
+  - Successfully linked the local backend with the `fet-cl.exe` heuristic C++ algorithm to solve Constraint Satisfaction Problems (CSP).
+
+## Day 153-160: August 21-28, 2026
+* **Type:** `feat(algorithm)` / `feat(pedagogy)`
+* **Commit:** `implement zero-gap policies and sub-group synchronization constraints`
+* **Log:** 
+  - Enforced `ConstraintStudentsSetMaxGapsPerDay` (value: 0) to guarantee continuous student schedules.
+  - Reverse-engineered sub-group syncing logic to run Science (G1) and Physics (G2) concurrently, immediately swapping in the subsequent hour.
+  - Added constraints to handle `2+2+1` block distribution for heavy subjects (Math/Arabic), utilizing `MinDaysBetweenActivities` to prevent block clustering.
+
+## Day 161-168: August 29 - September 5, 2026
+* **Type:** `fix(scheduling)` / `feat(hack)` / `feat(resources)`
+* **Commit:** `patch lunch break splitting and inject ghost activities for early dismissal`
+* **Log:** 
+  - `fix`: Resolved a critical vulnerability where the FET engine split 2-hour blocks across the 11:15 AM lunch break by injecting `<Activity_Tag>Double</Activity_Tag>` whitelists.
+  - `feat`: Invented the "Ghost Pattern" (Dummies). Injected fake 2-hour subjects (`راحة_مخبر`, `راحة_رياضة`) pinned at 15:00 PM to force the engine to leave late afternoons empty, filtering them out during the React frontend import.
+  - `feat`: Locked sports yard capacity using `MaxSimultaneousInSelectedTimeSlots` to strictly limit physical education to 2 concurrent classes.
+
+## Day 169-175: September 6-12, 2026
+* **Type:** `refactor(db)` / `feat(hr)` / `perf(solver)`
+* **Commit:** `comply with 2026 ministerial decree and deploy async championship loop`
+* **Log:** 
+  - `refactor`: Completely overhauled the SQLite `seedDB` logic to dynamically match the official Algerian July 27, 2026 educational decree (updated volumetric hours and coefficients).
+  - `feat(logic)`: Programmed complex inverse TD operations for 4th Year BEM students (consecutive inverse hour swapping for Math and Arabic).
+  - `feat(hr)`: Deployed strict "Anti-Burnout" load-balancing. Prevented junior teachers from handling 4th-year classes, restricted all teachers to a max of 2 levels, and capped workload <20 hours.
+  - `perf(solver)`: Architected a background "Championship Loop" where Node.js spawns 70 parallel FET generation attempts, auto-evaluating and persisting the most pedagogically optimal XML output to the database.
+* **Status:** Version 1.0 Ready for Production.
